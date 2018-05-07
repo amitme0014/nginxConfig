@@ -1,0 +1,1 @@
+ sudo openssl req -new -x509 -sha256 -days 365 -nodes -out /etc/ssl/certs/apache.pem -keyout /etc/ssl/certs/apache.key
